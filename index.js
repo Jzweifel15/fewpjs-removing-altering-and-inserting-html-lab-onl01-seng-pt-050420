@@ -7,4 +7,4 @@ let newHeader = document.createElement("h1");
 newHeader.setAttribute("id", "victory");
 
 // Sets "h1#victory" html 
-newHeader.innerHTML = 
+newHeader.innerHTML = "YOUR-NAME is the champion";
