@@ -6,4 +6,5 @@ element.remove();
 let newHeader = document.createElement("h1");
 newHeader.setAttribute("id", "victory");
 
-// Sets "h1#victory" value
+// Sets "h1#victory" html 
+newHeader.innerHTML = 
