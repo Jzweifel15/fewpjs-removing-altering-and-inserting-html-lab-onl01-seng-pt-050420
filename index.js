@@ -6,4 +6,3 @@ element.remove();
 document.createElement("h1#victory");
 
 // Gets "h1#victory"
-let newHeader = document.querySelector("h1#victory");
